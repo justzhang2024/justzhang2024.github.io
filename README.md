@@ -1,16 +1,28 @@
-## Hi there 👋
+## Hi there, I'm Just Zhang 👋
 
-<!--
-**justzhang2024/justzhang2024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm passionate about technology, fitness, and faith.
 
-Here are some ideas to get you started:
+### 💻 Programming & Technology
+I love building software and exploring new technologies. My interests include:
+- Software development and engineering
+- Problem-solving through code
+- Learning new programming languages and frameworks
+- Contributing to open-source projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🏃‍♂️ Running
+Running is one of my favorite hobbies! It helps me:
+- Stay physically fit and healthy
+- Clear my mind and think creatively
+- Challenge myself with new goals
+- Enjoy the outdoors and nature
+
+### ✝️ Christian Faith
+My Christian faith is an important part of my life. It guides me in:
+- Living with purpose and values
+- Serving others with compassion
+- Growing in wisdom and understanding
+- Building meaningful relationships
+
+---
+
+*"I can do all things through Christ who strengthens me." - Philippians 4:13*
